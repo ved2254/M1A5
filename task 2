@@ -1,0 +1,82 @@
+: <!DOCTYPE html>
+<html>
+<head>
+<title>day 2 task</title>
+</head>
+<body style="background-color:rgb(238, 241, 246)">
+<h2>an unordered list</h2>
+<ul>
+<li>rigan</li>
+<li>bateka</li>
+<li>tameta</li>
+<li>vatana</li>
+</ul>
+<h2> an ordered list</h2>
+<ol>
+<li>dabeli</li>
+<li>puff</li>
+<li>burgar</li>
+<li>pizza</li>
+<h2>A Nested List</h2>
+<p>Lists can be nested (list inside list):</p>
+<ul>
+<li>Coffee</li>
+<li>Tea
+<ul>
+<li>Black tea</li>
+<li>Green tea</li>
+</ul>
+</li>
+<li>Milk</li>
+</ul>
+</ol><br>
+<h2>creat table</h2>
+<table border="5">
+<tr>
+<th colspan="2">Name</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>Jill</td>
+<td>Smith</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>Eve</td>
+<td>Jackson</td>
+</tr>
+</table>
+<hr>
+<center> <b> form </b></center>
+<form action="/action_page.php">
+<label for="fname">First name:</label>
+<input type="text" id="fname" name="fname"><br><br>
+<label for="lname">Last name:</label>
+<input type="text" id="lname" name="lname"><br><br>
+<input type="checkbox" name="vehicle1" value="Bike">
+<label for="vehicle1"> I have a bike</label><br>
+<input type="checkbox" name="vehicle2" value="Car">
+<label for="vehicle2"> I have a car</label><br>
+<input type="checkbox" name="vehicle3" value="Boat" checked>
+<label for="vehicle3"> I have a boat</label><br><br>
+<input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html">HTML</label><br>
+<input type="radio" id="css" name="fav_language" value="CSS"
+checked="checked">
+<label for="css">CSS</label><br>
+<input type="radio" id="javascript" name="fav_language"
+value="JavaScript">
+<label for="javascript">JavaScript</label><br><br>
+<input type="submit" value="Submit">
+</form>
+<hr>
+<h2>the target attributes</h2><br>
+<a href="https://www.w3schools.com/html/default.asp" target="_main">visit
+google!</a>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/6mr4cYJ7yew?start=64" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</body>
+</html>
