@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<H1 style="color: brown;"> TASK 1 </H1>
+<h1> riya </h1>
+<h2> smit </h2>
+<h3> harsh </h3>
+<h4> anjali </h4>
+<h5> dhruv </h5>
+<h6> jay </h6>
+<br>
+<i> italic tag used</i>
+<br>
+<em> ehmpasis tag used</em>
+<br>
+<cite> citetion tag used </cite>
+<br>
+<dfn> defination tag used</dfn>
+<br>
+<u> silver oak underlind tag used</u>
+<br>
+<ins>conect with u tag</ins>
+<br>
+<del> font on line </del>
+<br>
+<s>conect with del tag</s>
+<br>
+<span>Defines a section in a document</span>
+<br>
+<div>conect with span tag</div>
+<br>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor <br>
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud<br>
+exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor<br>
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur. Excepteur <br>
+sint occaecat cupidatat non proident, sunt in culpa qui officia
+deserunt mollit anim id est laborum.</p><br>
+<q>Build a future where people live in harmony with nature.</q><br>
+1<sup>st</sup>
+<br>
+h<sub>2</sub>o
+<br>
+<abbr title="gujratuniversity">gu</abbr>
+<br>
+<b> bold tag used </b>
+<br>
+<strong> conect with b tag</strong>
+</body>
+</html>
 
