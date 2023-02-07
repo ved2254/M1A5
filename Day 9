@@ -1,0 +1,60 @@
+Day  9 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    .com-sm-4{
+        margin-top: 10%;
+    }
+    .com-sm-8{
+        margin-top: 10%;
+        text-align: center;
+    }
+    span{
+        padding: 25%;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid">
+  
+  <div class="row">
+    <div class="col-sm-4" style="background-color:lavender;">
+        <div class="row">
+            <img src="C:\Users\student\Desktop/1.jfif" height="250px" width="250px">
+    </div>
+    <div class="row">
+        <h1>dhoni<br>
+        (he/him)</h1>
+        <p>criketer and model</p>
+        </div>
+        </div>
+    <div class="col-sm-8" style="background-color:lavenderblush;">
+        <h1> about me</h1>
+        <hr style="color: black;">
+        <p>
+            Dhoni was born on 7th July 1981.<br> His parents are Pan Singh and Devaki Dev. They stayed in Ranchi (Jharkhand).<br> He has two siblings. His father was a junior manager in Mecon. Dhoni showed immense interest in playing football and badminton. <br>Even at the school level, he excelled in both the sports and was selected for the district-level competitions.<br> He studied at DAV Jawahar Vidya Mandir School located in Ranchi. He was an excellent goalkeeper.<br> Watching his eye-catchy skills, his football coach sent him to a local cricket club to play cricket.
+        </p>
+        <span><button style="background-color: aquamarine;">resume</button> &nbsp; &nbsp;
+        <button style="background-color: aliceblue;">portfolio</button>
+        </span>
+    
+    
+    
+    
+    </div>
+  </div>
+</div>
+    
+</body>
+</html>
