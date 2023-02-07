@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    p{
+        padding-right: 10%;
+        margin-right: 10%;
+    }
+  </style>
+</head>
+<body>
+<div class="row">
+    <div class="col-sm-6">
+        <img src="1.jfif" style="height: 600PX; width: 700PX;">
+    </div>
+
+
+    <div class="col-sm-6">
+        <div class="container">
+            <h2 style="color: blue; margin-right: 50px;">HELLO!</h2>
+            <H1 style="color: blue;"> Good morning</H1>
+
+            <a>
+                <p>
+                    login your account  
+                </p>
+            <form action="/action_page.php">
+              <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+              </div>
+              <div class="form-group">
+                <label for="pwd">Password:</label>
+                <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd">
+              </div>
+              <div class="checkbox">
+                <label><input type="checkbox" name="remember"> forget password?</label>
+              </div>
+              <button type="submit" class="btn btn-default">login</button>
+            </form>
+            <p>
+                create Account 
+            </p>
+             </a>
+          </div>
+
+    </div>
+</div>
+
+
+
+
+
+</body>
+</html>
+/* join code */
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+</head>
+<body>
+<div class="row">
+    <div class="col-sm-6">
+        <img src="2.jfif" style="height: 600PX; width: 700PX;">
+    </div>
+
+
+    <div class="col-sm-6">
+        <div class="container">
+            
+            <H1 style="color: blue;"> sign up </H1>
+
+            <a>
+                
+            <form action="/action_page.php">
+                <div class="form-group">
+                    <label for="email">Full name:</label>
+                    <input type="name" class="form-control" id="name" placeholder="enter  your name" name="name">
+                  </div>
+              <div class="form-group">
+                <label for="email">email:</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+              </div>
+              <div class="form-group">
+                <label for="email">user name:</label>
+                <input type="user name" class="form-control" id="user name" placeholder="Enter user name" name="user name">
+              </div>
+              <div class="form-group">
+                <label for="pwd">Password:</label>
+                <input type="password" class="form-control" id="pwd" placeholder="***" name="pwd">
+              </div>
+              <div class="form-group">
+                <label for="pwd"> Repeat Password:</label>
+                <input type="password" class="form-control" id="pwd" placeholder="*****" name="pwd">
+              </div>
+              <div class="checkbox">
+                <label><input type="checkbox" name="remember">  i agree to  the terms of user</label>
+              </div>
+              <button type="submit"> <a href="ved.html">sign up</a>  </button>
+              <p>
+                sign in ->
+            </p>
+            </form>
+            
+             </a>
+          </div>
+
+    </div>
+</div>
+
+
+
+
+
+</body>
+</html>
