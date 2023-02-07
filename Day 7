@@ -1,0 +1,78 @@
+Day 7 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    body{
+           background-color: red;
+           padding-left: 40px;
+    }
+    h3
+
+    {
+        color: blue;
+    }
+    h2{
+        color:rgb(red, green, blue);
+    }
+    h5{
+        margin-top: 10px;
+
+    }
+    ul{
+        padding-left: 40px;
+    }
+    a{
+
+        margin-left: 40px;
+        background-color: rgb;
+        color:aliceblue;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        border: solid;
+        height: 20px;
+        padding:5px;
+        padding-right:20px;
+       paddding-left:20px;
+       boarder-redius:30px;
+    }
+    #p1
+	{
+		float: left;
+	}
+#p2
+	{
+		float:right;
+		margin-top:20px;
+	}
+
+	
+</style>
+</head>
+<body>
+	<div id="p1">
+	<h3>logo</h3>
+	<h1>we are <br> hiring</h1>
+	<h2>project<br>manager</h2>
+	<h5>requirements:</h5>
+	<ul>
+		<li> min 3 years of experience </li>
+		<li>over 21 year old </li>
+		<li> hardworker</li>
+		<li>excellent for spoken english </li>
+		<li> avalibale for full time-job </li>
+	</ul>
+	<a><b>apply now!</b></a>
+	</div>
+
+                 <div id="p2">
+		<img src="C:\Users\student\Desktop/2.jfif" alt="">    
+	</div>
+</body>
+</html>
